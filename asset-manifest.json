@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EasyClean-Backend/static/css/main.11b260c4.chunk.css",
+    "main.js": "/EasyClean-Backend/static/js/main.6eff6fa4.chunk.js",
+    "main.js.map": "/EasyClean-Backend/static/js/main.6eff6fa4.chunk.js.map",
+    "runtime-main.js": "/EasyClean-Backend/static/js/runtime-main.c93aeb63.js",
+    "runtime-main.js.map": "/EasyClean-Backend/static/js/runtime-main.c93aeb63.js.map",
+    "static/js/2.19284204.chunk.js": "/EasyClean-Backend/static/js/2.19284204.chunk.js",
+    "static/js/2.19284204.chunk.js.map": "/EasyClean-Backend/static/js/2.19284204.chunk.js.map",
+    "static/js/3.33ad0fd8.chunk.js": "/EasyClean-Backend/static/js/3.33ad0fd8.chunk.js",
+    "static/js/3.33ad0fd8.chunk.js.map": "/EasyClean-Backend/static/js/3.33ad0fd8.chunk.js.map",
+    "index.html": "/EasyClean-Backend/index.html",
+    "static/css/main.11b260c4.chunk.css.map": "/EasyClean-Backend/static/css/main.11b260c4.chunk.css.map",
+    "static/js/2.19284204.chunk.js.LICENSE.txt": "/EasyClean-Backend/static/js/2.19284204.chunk.js.LICENSE.txt",
+    "static/media/pro.294938a1.svg": "/EasyClean-Backend/static/media/pro.294938a1.svg",
+    "static/media/que.cce4b359.svg": "/EasyClean-Backend/static/media/que.cce4b359.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c93aeb63.js",
+    "static/js/2.19284204.chunk.js",
+    "static/css/main.11b260c4.chunk.css",
+    "static/js/main.6eff6fa4.chunk.js"
+  ]
+}
